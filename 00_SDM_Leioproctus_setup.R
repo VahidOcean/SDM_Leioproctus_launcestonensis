@@ -4,7 +4,6 @@
 #   Leioproctus launcestonensis (Cockerell, 1910)
 #   Part 0 — Project Setup and Environment Check
 #
-#   Authors  : Vahid Sepahvand
 #   Date     : 2026
 #   R version: >= 4.3.0
 #
