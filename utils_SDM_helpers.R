@@ -4,7 +4,6 @@
 #   Leioproctus launcestonensis (Cockerell, 1910)
 #   Helper Utilities — Shared Functions
 #
-#   Authors  : Vahid Sepahvand
 #   Date     : 2026
 #
 # ------------------------------------------------------------------------------
