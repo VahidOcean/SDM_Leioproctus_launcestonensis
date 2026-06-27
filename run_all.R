@@ -4,7 +4,7 @@
 #   Leioproctus launcestonensis (Cockerell, 1910)
 #   Master Run Script
 #
-#   Authors  : Vahid Sepahvand
+#
 #   Date     : 2026
 #
 # ------------------------------------------------------------------------------
